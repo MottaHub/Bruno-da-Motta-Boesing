@@ -7,7 +7,7 @@ Sou Técnico em Informática formado pela IENH (2025) e atualmente cursando Ciê
 
 <h3 align="left">Objetivo Profissional</h3>
 <p align="left">
-Estou em busca de oportunidades em desenvolvimento de software e infraestrutura, onde eu possa aplicar meus conhecimentos, aprender novas tecnologias e contribuir com soluções eficientes e inovadoras.
+Estou em busca de oportunidades em desenvolvimento de software e infraestrutura, onde eu possa aplicar meus conhecimentos, aprender novas tecnologias e contribuir com soluções eficientes e inovadoras, com um aprendizado contínuo.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,6 +42,16 @@ Estou em busca de oportunidades em desenvolvimento de software e infraestrutura,
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
+</p>
+
+<h3 align="left">Most Used Languages:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MottaHub&layout=compact&langs_count=16&theme=radical" alt="Most Used Languages"/>
+</p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MottaHub&show_icons=true&theme=radical" alt="Bruno's GitHub stats"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
